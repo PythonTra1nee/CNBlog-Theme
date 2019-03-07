@@ -41,9 +41,9 @@
 
 1. 首页效果：
 
-![index](mahua-logo.jpg)
+![index](https://github.com/PythonTra1nee/CNBlog-Theme/blob/master/Simple-dashed/image/index.jpg)
 
 2. 详情页：
 
-![detail](mahua-logo.jpg)
+![detail](https://github.com/PythonTra1nee/CNBlog-Theme/blob/master/Simple-dashed/image/detail.jpg?raw=true)
 
