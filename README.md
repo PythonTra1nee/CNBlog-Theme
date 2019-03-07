@@ -4,11 +4,11 @@
 
 1. 打开博客园后台设置：
 
-![setting](mahua-logo.jpg)
+![setting](https://github.com/PythonTra1nee/CNBlog-Theme/blob/master/dispaly/20190307154520.jpg)
 
 2. 选中你喜欢的主题，打开下面 css/style.css 中的内容粘贴到 CSS 框中，记得勾选禁用本身的样式：
 
-![copy](mahua-logo.jpg)
+![copy](https://github.com/PythonTra1nee/CNBlog-Theme/blob/master/dispaly/20190307154606.jpg)
 
 3. 保存预览~
 
