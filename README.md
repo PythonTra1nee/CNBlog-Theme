@@ -14,7 +14,7 @@
 
 3. 将 script 中的 js 内容粘贴到页首 HTML 处，并将里面的连接改为自己想要的链接：
 
-![header](https://github.com/PythonTra1nee/CNBlog-Theme/blob/master/dispaly/20190307154606.jpg)
+![header](https://github.com/PythonTra1nee/CNBlog-Theme/blob/master/dispaly/header-html.jpg)
 
 4. 保存预览~
 
