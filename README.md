@@ -53,9 +53,24 @@
 
 1. 首页效果：
 
-![index](https://github.com/PythonTra1nee/CNBlog-Theme/blob/master/Simple-dashed/image/index.jpg)
+![index](Simple-dashed/image/index.jpg)
 
 2. 详情页：
 
-![detail](https://github.com/PythonTra1nee/CNBlog-Theme/blob/master/Simple-dashed/image/detail.jpg?raw=true)
+![detail](Simple-dashed/image/detail.jpg)
+
+
+### 主题 2：Simple-check-heart
+
+说明：名字很随意，将就用，哈哈哈。
+
+特点：新增网格背景，点击页面小心心
+
+1. 首页效果：
+
+![index](Simple-check-heart/image/主页.png)
+
+2. 详情页：
+
+![detail](Simple-check-heart/image/详情页.png)
 
