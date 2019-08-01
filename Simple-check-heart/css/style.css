@@ -266,8 +266,6 @@ body {
 
 #leftcontentcontainer #sidebar_topviewedposts #TopViewPostsBlock {
 	padding-top: 10px;
-	border-top: 1px;
-	border-top: 1px dashed #ebebeb
 }
 
 #leftcontentcontainer #sidebar_topviewedposts #TopViewPostsBlock ul {
@@ -284,8 +282,6 @@ body {
 
 #leftcontentcontainer #sidebar_topcommentedposts #TopFeedbackPostsBlock {
 	padding-top: 10px;
-	border-top: 1px;
-	border-top: 1px dashed #ebebeb
 }
 
 #leftcontentcontainer #sidebar_topcommentedposts #TopFeedbackPostsBlock ul {
@@ -303,7 +299,6 @@ body {
 #leftcontentcontainer #call_me_box {
 	padding-top: 10px;
 	border-top: 1px;
-	border-top: 1px dashed #ebebeb;
 	text-align: center
 }
 
@@ -603,7 +598,6 @@ body {
 	position: relative;
 	margin: 0 0 10px 0;
 	padding: 15px;
-	border: 1px dashed #ddd;
 	display: block
 }
 
@@ -635,9 +629,7 @@ body {
 
 #mainContent .entrylistTitle {
 	text-align: center;
-	background-color: white;
 	padding: 30px 0;
-	border: 1px dashed #ebebeb;
 	margin-bottom: 10px
 }
 
