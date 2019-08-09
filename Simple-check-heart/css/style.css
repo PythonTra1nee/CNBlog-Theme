@@ -657,9 +657,18 @@ blockquote pre {
 		display: none
 	}
 
+    #main {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
 	#header {
 		min-width: 100%!important
 	}
+    
+    .blogStats {
+        display: none;
+    }
 
 	#mainContent .day .postSeparator {
 		width: 100%!important
@@ -688,10 +697,23 @@ blockquote pre {
 	#cnblogs_post_body table {
 		display: inline!important
 	}
+    
+    #topics .postTitle a {
+        font-size: 20px;
+    }
+    
+    #topics .post .postBody #cnblogs_post_body img {
+        max-width: 100%;
+        border: 1px dashed green;
+    }
 
 	#mainContent .postBody table td {
 		white-space: normal!important
 	}
+    
+    .commentbox_title_right {
+        display: none;
+    }
 }
 
 #cnblogs_post_body p {
