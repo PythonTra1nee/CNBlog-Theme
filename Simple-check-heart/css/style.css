@@ -125,7 +125,7 @@ body {
 
 #mainContent .day .postTitle {
 	display: inline-block;
-	height: 22px;
+		height: auto;
 	line-height: 22px;
 	font-size: 20px;
 	font-weight: bolder;
@@ -675,6 +675,7 @@ blockquote pre {
 	}
 
 	#mainContent {
+	  width: calc(100% - 30px);
 		margin-right: 0!important
 	}
 
