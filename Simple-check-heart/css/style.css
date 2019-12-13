@@ -603,7 +603,7 @@ body {
 
 #mainContent .entrylistItem .entrylistPosttitle {
 	display: inline-block;
-	height: 22px;
+	height: auto;
 	line-height: 22px;
 	font-size: 20px;
 	font-weight: bolder;
